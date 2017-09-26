@@ -4,7 +4,7 @@ Our implementation is compared with the standard implementation of sklearn's lin
 
 ***Write up/ Presentation slides: Please find the link to our presentation slides below:***
 
-
+https://docs.google.com/presentation/d/1YRGwG3gX3PY3yZn0_JbwysoVO5zntbnlNGD8oB5XIFE/edit?usp=sharing
 
 **Implementation steps:**
 
