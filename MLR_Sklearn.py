@@ -9,10 +9,10 @@ from sklearn.cross_validation import cross_val_score
 from sklearn import cross_validation 
 from sklearn.cross_validation import train_test_split
 
-XMat = pd.read_csv('anotherxcel2.csv')
+XMat = pd.read_csv('predictors.csv')
 XmatrixInti = XMat.as_matrix()
 X = pd.DataFrame(XmatrixInti)
-Y= pd.read_csv('anotherY2.csv')
+Y= pd.read_csv('response.csv')
 Ymatr=Y.as_matrix()
 linreg = LinearRegression()
 X_train, X_test, y_train, y_test = train_test_split(
