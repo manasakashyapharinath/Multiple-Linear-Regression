@@ -12,6 +12,7 @@ Our implementation is compared with the standard implementation of sklearn's lin
 is particularly suitable for our implementation (Multiple Linear Regression). The link is provided below:
 
 data: http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data
+
 description: http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.names
 
 Note: The first column in the dataset is ignored as it does not contribute to the prediction. In the dataset, we consider that the last  column, 'Rings' is our response variable (Y) and the other columns are the predictor values (Say, x1, x2, x3..). Hence,
